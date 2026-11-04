@@ -217,10 +217,6 @@ $$
 
 Aplicando la transformada de Laplace y desarrollando las expresiones anteriores, se obtiene:
 
-$$
-\boxed{
-\frac{F_{s1}(s)}{F(s)}
-=
 \frac{C_sRs+1}
 {R(C_p+C_s)s+1}
 }
