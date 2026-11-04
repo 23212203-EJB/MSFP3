@@ -221,10 +221,11 @@ $$
 \boxed{
 \frac{F_{s1}(s)}{F(s)}
 =
-\frac{C_sRs+1}
+\frac{C_s R s + 1}
 {R(C_p+C_s)s+1}
 }
 $$
+
 
 **Circuito 2: fuente $F(t)$ apagada**
 
@@ -253,6 +254,7 @@ $$
 }
 $$
 
+
 ### 2. Función de transferencia general
 
 Aplicando el principio de superposición, la fuerza de salida total se obtiene mediante la suma de las contribuciones individuales:
@@ -267,10 +269,11 @@ $$
 \boxed{
 G(s)=\frac{F_s(s)}{F(s)}
 =
-\frac{C_sRs+1-\alpha}
+\frac{C_s R s+1-\alpha}
 {R(C_p+C_s)s+1}
 }
 $$
+
 
 Donde:
 
