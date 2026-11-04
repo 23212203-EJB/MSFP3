@@ -612,8 +612,6 @@ La práctica contempla las siguientes actividades para el desarrollo y análisis
 <a id="estructura"></a>
 ## Estructura del repositorio
 
-Una organización sugerida para los archivos de la práctica es:
-
 ```text
 MSFP3/
 │
