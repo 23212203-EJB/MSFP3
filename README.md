@@ -607,39 +607,6 @@ La práctica contempla las siguientes actividades para el desarrollo y análisis
 
 [Volver al contenido](#contenido)
 
----
-
-<a id="estructura"></a>
-## Estructura del repositorio
-
-```text
-MSFP3/
-│
-├── README.md
-│
-├── Análisis matemático y diagrama.pdf
-│
-├── Modelo_Simulink/
-│   └── Sistema_Practica3.slx
-│
-├── MATLAB/
-│   └── P3_Jauregui23212203.mlx
-│
-├── Python/
-│   └── P3_Jauregui.py
-│
-├── Imagenes/
-│   ├── diagrama_sistema_musculoesqueletico.jpeg
-│   ├── Parámetros controlador PI.jpeg
-│
-└── Resultados/
-    ├── Sistema_Muesculoesqueletico.pdf/
-    └── Control y caso_matlab.pdf/
-```
-
-[Volver al contenido](#contenido)
-
----
 
 <a id="requisitos"></a>
 ## Requisitos
