@@ -517,8 +517,7 @@ El diagrama contempla las siguientes representaciones:
 
 La ilustración permite complementar el modelo matemático y la analogía eléctrica, facilitando la interpretación de los cambios mecánicos asociados a la condición de atrofia muscular.
 
-![Diagrama del sistema musculoesquelético: comparación entre CONTROL y CASO (atrofia muscular)](Imagenes/diagrama_sistema_musculoesqueletico.jpeg)
-
+![Diagrama del sistema musculoesquelético: comparación entre CONTROL y CASO (atrofia muscular)]![Diagrama del sistema musculoesquelético](diagrama_sistema_musculoesqueletico.jpeg)
 <sub>Figura 1. Representación del sistema musculoesquelético en condiciones CONTROL y CASO (atrofia muscular). Elaboración propia mediante BioRender.</sub>
 
 [Volver al contenido](#contenido)
