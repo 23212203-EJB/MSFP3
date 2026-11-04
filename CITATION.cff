@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 3: Sistema musculoesquelético'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ernesto
+    family-names: Jauregui Bogarin
+    email: L23212203@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/23212203-EJB/MSFP3'
+keywords:
+  - Musculoesquelético
+  - Atrofia muscular
+  - Modelo mecánico
+  - Analogía eléctrica
+  - Principio de superposición
+  - Función de transferencia
+  - Estabilidad
+  - Simulaciones numéricas
+license: BSD-2-Clause-FreeBSD
+version: '1.0'
+date-released: '2026-11-03'
