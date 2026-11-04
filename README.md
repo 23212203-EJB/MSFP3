@@ -217,14 +217,15 @@ $$
 
 Aplicando la transformada de Laplace y desarrollando las expresiones anteriores, se obtiene:
 
-$$
-\boxed{
+
+```math
 \frac{F_{s1}(s)}{F(s)}
 =
-\frac{C_s R s + 1}
+\frac{C_s R s+1}
 {R(C_p+C_s)s+1}
-}
-$$
+```
+
+
 
 
 **Circuito 2: fuente $F(t)$ apagada**
@@ -245,14 +246,14 @@ $$
 
 Aplicando la transformada de Laplace y desarrollando las expresiones correspondientes, se obtiene:
 
-$$
-\boxed{
+
+```math
 \frac{F_{s2}(s)}{F(s)}
 =
 \frac{-\alpha}
 {R(C_p+C_s)s+1}
-}
-$$
+```
+
 
 
 ### 2. Función de transferencia general
@@ -265,14 +266,14 @@ $$
 
 Por lo tanto, la función de transferencia general del sistema es:
 
-$$
-\boxed{
+
+```math
 G(s)=\frac{F_s(s)}{F(s)}
 =
 \frac{C_s R s+1-\alpha}
 {R(C_p+C_s)s+1}
-}
-$$
+```
+
 
 
 Donde:
