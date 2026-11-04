@@ -619,30 +619,25 @@ MSFP3/
 │
 ├── README.md
 │
-├── Calculos_matematicos.pdf
+├── Análisis matemático y diagrama.pdf
 │
 ├── Modelo_Simulink/
-│   └── modelo_musculoesqueletico.slx
+│   └── Sistema_Practica3.slx
 │
 ├── MATLAB/
-│   └── simulacion_control_caso.m
+│   └── P3_Jauregui23212203.mlx
 │
 ├── Python/
-│   └── modelo_musculoesqueletico.py
+│   └── P3_Jauregui.py
 │
 ├── Imagenes/
 │   ├── diagrama_sistema_musculoesqueletico.jpeg
-│   ├── modelo_mecanico.png
-│   ├── circuito_electrico.png
-│   └── diagrama_simulink.png
+│   ├── Parámetros controlador PI.jpeg
 │
 └── Resultados/
-    ├── control/
-    ├── caso/
-    └── comparacion/
+    ├── Sistema_Muesculoesqueletico.pdf/
+    └── Control y caso_matlab.pdf/
 ```
-
-**Nota:** esta estructura es una propuesta organizativa. Los nombres de los archivos pueden modificarse de acuerdo con los documentos y programas finales incluidos en el repositorio. La imagen de BioRender debe colocarse en la carpeta `Imagenes` con el nombre utilizado en el enlace del README.
 
 [Volver al contenido](#contenido)
 
